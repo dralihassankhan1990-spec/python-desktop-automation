@@ -1,0 +1,3 @@
+Weekly stand-up notes (demo)
+- Sprint velocity: 21 points
+- Blocker: vendor delivery delayed by 2 days

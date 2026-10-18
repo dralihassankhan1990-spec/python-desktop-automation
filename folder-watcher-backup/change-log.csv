@@ -1,0 +1,20 @@
+timestamp,file,event,backup_path
+2026-10-16 10:08:24,meeting-notes.txt,created,2026-10-16_100824_meeting-notes.txt
+2026-10-16 10:08:27,docs/project-plan.md,modified,docs/2026-10-16_100827_project-plan.md
+2026-10-16 10:08:30,docs/project-plan.md,modified,docs/2026-10-16_100830_project-plan.md
+2026-10-16 10:08:33,data/tasks.csv,created,data/2026-10-16_100833_tasks.csv
+2026-10-16 10:08:36,scratch-to-delete.txt,created,2026-10-16_100836_scratch-to-delete.txt
+2026-10-16 10:08:39,scratch-to-delete.txt,deleted,
+2026-10-16 10:09:32,retention-test.txt,created,2026-10-16_100932_retention-test.txt
+2026-10-16 10:09:35,retention-test.txt,modified,2026-10-16_100934_retention-test.txt
+2026-10-16 10:09:37,retention-test.txt,modified,2026-10-16_100937_retention-test.txt
+2026-10-16 10:09:39,retention-test.txt,modified,2026-10-16_100939_retention-test.txt
+2026-10-16 10:09:41,retention-test.txt,modified,2026-10-16_100941_retention-test.txt
+2026-10-16 10:09:43,retention-test.txt,modified,2026-10-16_100943_retention-test.txt
+2026-10-16 10:09:45,retention-test.txt,modified,2026-10-16_100945_retention-test.txt
+2026-10-16 16:20:57,docs/project-plan.md,modified,docs/2026-10-16_162057_project-plan.md
+2026-10-16 16:20:57,meeting-notes.txt,modified,2026-10-16_162057_meeting-notes.txt
+2026-10-16 16:21:02,docs/project-plan.md,modified,docs/2026-10-16_162102_project-plan.md
+2026-10-16 16:21:07,data/tasks.csv,modified,data/2026-10-16_162107_tasks.csv
+2026-10-16 16:21:07,scratch-to-delete.txt,created,2026-10-16_162107_scratch-to-delete.txt
+2026-10-16 16:21:12,scratch-to-delete.txt,deleted,

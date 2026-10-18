@@ -1,0 +1,3 @@
+# PDF Status Report Generator — by Muhammad Bilal
+fpdf2==2.8.3
+openpyxl==3.1.2

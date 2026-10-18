@@ -1,0 +1,4 @@
+# Folder Watcher & Auto-Backup — by Muhammad Bilal
+# NO third-party dependencies: the watcher uses the Python standard library
+# only (argparse, csv, hashlib, logging, shutil, pathlib, signal).
+# Requires: Python 3.9 or newer. Nothing to install.
